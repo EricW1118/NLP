@@ -1,1 +1,1 @@
-# NLP_Res
+# Models for NLP course
